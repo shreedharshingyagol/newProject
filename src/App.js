@@ -47,7 +47,7 @@ import {
   
     return (
       <Routes>
-        <Route path="/" element={<HeaderMask />} />
+        <Route path="/newProject" element={<HeaderMask />} />
         <Route path="/about" element={<div>hello</div>} />
 
       </Routes>
